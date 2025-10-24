@@ -19,7 +19,7 @@ In this lab we designed both a multiplexer and a demultiplexer, in order to simu
 ### In plain English describe the function and use of a multiplexer.
 
 ### In plain English describe the function and use of a demultiplexer.
-A demultplexer takes a single input, and basically decodes into one of however many outputs, depending on how large your input is. Also, only one of your outputs will ever be active, and the idea is to choose which of those outputs is to be active.
+A demultiplexer takes a single input, and basically decodes into one of however many outputs, depending on how large your input is. Also, only one of your outputs will ever be active, and the idea is to choose which of those outputs is to be active.
 
 ### What other uses might these circuits have? (Think Shannon’s)
-
+Well, as learned in lecture, you can use multiplexers to create any circuit, with fewer transitors. Also, a multiplexer and demultiplexer can be used in combination to encode and decode messages.
